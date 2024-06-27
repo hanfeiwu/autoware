@@ -109,9 +109,9 @@ repositories:
     url: https://github.com/MapIV/transport_drivers.git
     version: boost
   # sensor_kit
-  sensor_kit/sample_sensor_kit_launch:
+  sensor_kit/leaf_sensor_kit_launch:
     type: git
-    url: https://github.com/hanfeiwu/sample_sensor_kit_launch.git
+    url: https://github.com/hanfeiwu/leaf_sensor_kit_launch.git
     version: main
   sensor_kit/external/awsim_sensor_kit_launch: # TODO: Integrate into sample_sensor_kit_launch
     type: git
@@ -122,9 +122,9 @@ repositories:
     url: https://github.com/autowarefoundation/awsim_labs_sensor_kit_launch.git
     version: main
   # vehicle
-  vehicle/sample_vehicle_launch:
+  vehicle/leaf_vehicle_launch:
     type: git
-    url: https://github.com/hanfeiwu/sample_vehicle_launch.git
+    url: https://github.com/hanfeiwu/leaf_vehicle_launch.git
     version: main
   vehicle/external/pacmod_interface:
     type: git
