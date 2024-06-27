@@ -108,6 +108,23 @@ repositories:
     type: git
     url: https://github.com/MapIV/transport_drivers.git
     version: boost
+  sensor_component/external/lucid_vision_driver:
+    type: git
+    url: https://github.com/hanfeiwu/lucid_vision_driver.git
+    version: main
+  sensor_component/external/rslidar_driver:
+    type: git
+    url: https://github.com/hanfeiwu/rslidar_sdk.git
+    version: main
+  sensor_component/external/rslidar_msg:
+    type: git
+    url: https://github.com/RoboSense-LiDAR/rslidar_msg.git
+    version: master
+  sensor_component/external/bluespace_ai_xsens_ros_mti_driver:
+    type: git
+    url: https://github.com/hanfeiwu/bluespace_ai_xsens_ros_mti_driver.git
+    version: main
+
   # sensor_kit
   sensor_kit/leaf_sensor_kit_launch:
     type: git
